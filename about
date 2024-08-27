@@ -1,0 +1,20 @@
+		// Creating an object
+		
+//		// Is a relation ship
+//		Vehicle obj = new Bus("brts");
+//		System.out.println(obj.getName());
+//		System.out.println(obj.getMillage());  
+//
+//		
+		// o/p ->  bus name id brts
+		// 10
+		
+		// Why i am not able to create a method of child class from object Interface?
+		// While Creating an object of interface i cant use method of child class
+		
+		
+		// But here in this case i am Creating an object using Java file
+		// For achiving inversion of control 
+		// The object should be created by external configration not java file
+		
+		// So springs helps us to achive this functionality 
